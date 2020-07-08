@@ -1,2 +1,2 @@
-# vue3-element-cli
-base on vue3 project element-ui cli
+# vue3-cli-plugin
+base on vue3 project cli
